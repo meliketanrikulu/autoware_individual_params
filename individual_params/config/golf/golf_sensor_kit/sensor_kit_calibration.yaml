@@ -1,0 +1,115 @@
+sensor_kit_base_link: #  x y z y p r and x y z qx qy qz qw for ros static transform publisher
+  CAM_FR/camera_link: #  rosrun tf static_transform_publisher 0.2798 -0.3450 -0.2436 -2.6260 -0.0100 -1.5637 vls128 FR_CAMERA 100
+    x: 0.2798
+    y: -0.3450
+    z: -0.2436
+    roll: -1.5637
+    pitch: -0.0100
+    yaw: -2.6260
+  CAM_F/camera_link: #  rosrun tf static_transform_publisher 0.347 -0.031 -0.233 -1.547 0.000 -1.545 vls128 F_CAMERA 100
+    x: 0.347
+    y: -0.031
+    z: -0.233
+    roll: -1.545
+    pitch: 0.0
+    yaw: -1.547
+  CAM_FL/camera_link: #  rosrun tf static_transform_publisher 0.2349 0.3817 -0.2381 -0.4622 0.0050 -1.5500 vls128 FL_CAMERA 100
+    x: 0.2349
+    y: 0.3817
+    z: -0.2381
+    roll: -1.5500
+    pitch: 0.0050
+    yaw: -0.4622
+  CAM_ML/camera_link: #  rosrun tf static_transform_publisher 0.04491 0.46936 -0.20989 0.41990 -0.04131 -1.576400 vls128 ML_CAMERA 100
+    x: 0.04491
+    y: 0.46936
+    z: -0.20989
+    roll: 1.576400
+    pitch: -0.04131
+    yaw: 0.41990
+  CAM_BL/camera_link: #  rosrun tf static_transform_publisher -1.356 0.608 -0.528 -0.782 0.007 -1.709 vls128 BL_CAMERA 100
+    x: -1.356
+    y: 0.608
+    z: -0.528
+    roll: -1.709
+    pitch: 0.007
+    yaw: -0.782
+  CAM_B/camera_link: #  rosrun tf static_transform_publisher -1.742 -0.082 -0.557 1.562 0.023 -1.553 vls128 B_CAMERA 100
+    x: -1.742
+    y: -0.082
+    z: -0.557
+    roll: -1.553
+    pitch: 0.023
+    yaw: 1.562
+  CAM_BR/camera_link: #  rosrun tf static_transform_publisher -1.32739 -0.71892 -0.441085 -2.26869 0.035292 -1.72402 vls128 BR_CAMERA 100
+    x: -1.32739
+    y: -0.71892
+    z: -0.441085
+    roll: -1.72402
+    pitch: 0.035292
+    yaw: -2.26869
+  CAM_MR/camera_link: #  rosrun tf static_transform_publisher -0.0275 -0.7034 -0.2793 2.7365 0.0247 -1.5734 vls128 MR_CAMERA 100
+    x: -0.0275
+    y: -0.7034
+    z: -0.2793
+    roll: -1.5734
+    pitch: 0.0247
+    yaw: 2.7365
+  VLS128_TOP_base_link:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    roll: 0.0
+    pitch: 0.0
+    yaw: 0.0
+  VLP16_BL_base_link:
+    x: -1.90846
+    y: 0.753666 
+    z: -0.804487
+    roll: -0.109813
+    pitch: 0.185011
+    yaw: 2.18002 
+  VLP16_BR_base_link:
+    x: -1.88252
+    y: -0.928369
+    z: -1.06996
+    roll: -3.07117
+    pitch: 3.06545
+    yaw: 0.938101
+  VLP16_ML_base_link:
+    x: -0.0414397
+    y: 0.740039
+    z: -0.163308
+    roll: -0.0848331
+    pitch: 0.932579
+    yaw: 1.51785
+  VLP16_MR_base_link:
+    x: 0.00055347
+    y: -0.633836
+    z: -0.154749
+    roll: -3.12244 
+    pitch: 2.18812
+    yaw: 1.5942
+  VLP16_F_base_link:
+    x: 2.23681
+    y: 0.0215463
+    z: -0.892688
+    roll: -0.0212881 
+    pitch: 0.220418
+    yaw: 0.00550101
+  gnss_ins:
+    x: -6.043
+    y: -0.009
+    z: -1.404
+    roll: 0.03116
+    pitch: -0.1807886
+    yaw: 0.0238541
+
+
+
+
+
+
+
+
+
