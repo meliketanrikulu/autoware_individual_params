@@ -104,13 +104,13 @@ sensor_kit_base_link: #  x y z y p r and x y z qx qy qz qw for ros static transf
     roll: 3.1415927
     pitch: 3.1415927
     yaw: 0.0
-  #  GNSS_INS/gnss_ins_link:
-  #    x: -1.310
-  #    y: 0.0
-  #    z: -1.70
-  #    roll: 0.0
-  #    pitch: 0.0
-  #    yaw: 0.0
+#  GNSS_INS/gnss_ins_link:
+#    x: -1.310
+#    y: 0.0
+#    z: -1.28
+#    roll: 0.0
+#    pitch: 0.0
+#    yaw: 0.0
   GNSS_INS/gnss_ins_link:
     x: 0.0
     y: 0.0
