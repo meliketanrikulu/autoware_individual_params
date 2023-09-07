@@ -97,6 +97,13 @@ sensor_kit_base_link: #  x y z y p r and x y z qx qy qz qw for ros static transf
     roll: -0.00763495
     pitch: 0.156286
     yaw: 0.00356879
+  RS_BPEARL_F_base_link:
+    x: 2.08674
+    y: 0.0425229
+    z: -1.31923
+    roll: 1.8546
+    pitch: 1.59507
+    yaw: 1.8863
   GNSS_INS:
     x: 0.0
     y: 0.0
